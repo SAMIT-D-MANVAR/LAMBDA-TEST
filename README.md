@@ -11,14 +11,14 @@ REAL TIME TESTING (LIVE TESTING)
 Real-Time Testing allows you to perform live-interactive cross browser testing of your website on more than 2000+ real browsers & browser versions running on various operating systems in the cloud. Lambda Test provides you real-time testing experience by virtual machines hosted on our cloud servers.
 
 ![image](https://github.com/SAMIT-D-MANVAR/LAMBDA-TEST/assets/69346963/7e8cf651-6ffa-4a5c-bf95-0460f491d6b9)
-Real Time Testing
+                                            Real Time Testing
 
 We can also mark a bug by selecting mark as bug option available
 ![image](https://github.com/SAMIT-D-MANVAR/LAMBDA-TEST/assets/69346963/36084b39-4b57-4b40-a992-d97419e501f2)
-Mark a bug 
+                                                Mark a bug 
 
 ![image](https://github.com/SAMIT-D-MANVAR/LAMBDA-TEST/assets/69346963/7280b604-72ea-48ba-a3b4-19d9cbbe7448)
-Write issues after finding a bug
+                                    Write issues after finding a bug
 
 
 LT BROWSER TESTING
@@ -35,7 +35,7 @@ Accessing Test Logs
 Step 1: Log in to your account.
 Step 2: Select 'Test Logs' from the menu bar on the left-hand side.
 ![image](https://github.com/SAMIT-D-MANVAR/LAMBDA-TEST/assets/69346963/36f7b11d-4e57-4b31-99c9-d37285d5f4b5)
-Test Logs with Test Details
+                                        Test Logs with Test Details
 
 AUTOMATION TESTING
 Automation testing is the process of testing software and other tech products to ensure it meets strict requirements. Essentially, it's a test to double-check that the equipment or software does exactly what it was designed to do. It tests for bugs, defects, and any other issues that can arise with product development.
@@ -43,7 +43,7 @@ Automation testing with an example: -
 Task is to mark two items as done in a to-do list website and also add a new item to the list.
 
 ![image](https://github.com/SAMIT-D-MANVAR/LAMBDA-TEST/assets/69346963/966809fc-a1cd-4c46-9c65-72b2d79c784e)
-Task Performed by Automation Testing
+                              Task Performed by Automation Testing
 
 STEPS INVOLVED
 1)Driver code
