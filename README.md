@@ -23,19 +23,21 @@ We can also mark a bug by selecting mark as bug option available
 
 LT BROWSER TESTING
 LT Browser allows you to ensure your website's responsiveness over a variety of major devices and view ports. You can open a website in the LT Browser and perform live testing across 50+ pre-installed device viewports such as mobile devices, laptops, tablets etc.
+
 ![image](https://github.com/SAMIT-D-MANVAR/LAMBDA-TEST/assets/69346963/4e7b3d22-9ba5-4b51-bb9a-a8fd30d870de)
 Responsive Test for mobile devices
+
 ![image](https://github.com/SAMIT-D-MANVAR/LAMBDA-TEST/assets/69346963/6bdce481-7ecd-444f-bcbc-52c80ae97934)
 Responsive test for Laptop Devices
 
 TEST LOGS
 Test Logs is a library where you can find logs of all cross-browser testing performed by you on Lambda Test.
-
 Accessing Test Logs
 Step 1: Log in to your account.
 Step 2: Select 'Test Logs' from the menu bar on the left-hand side.
 ![image](https://github.com/SAMIT-D-MANVAR/LAMBDA-TEST/assets/69346963/36f7b11d-4e57-4b31-99c9-d37285d5f4b5)
                                         Test Logs with Test Details
+
 
 AUTOMATION TESTING
 Automation testing is the process of testing software and other tech products to ensure it meets strict requirements. Essentially, it's a test to double-check that the equipment or software does exactly what it was designed to do. It tests for bugs, defects, and any other issues that can arise with product development.
@@ -44,7 +46,6 @@ Task is to mark two items as done in a to-do list website and also add a new ite
 
 ![image](https://github.com/SAMIT-D-MANVAR/LAMBDA-TEST/assets/69346963/966809fc-a1cd-4c46-9c65-72b2d79c784e)
                               Task Performed by Automation Testing
-
 STEPS INVOLVED
 1)Driver code
 The driver code with lambda test credentials.
